@@ -3,7 +3,7 @@
 
 - pkg install php -y && pkg install nano -y
 - pkg update && pkg upgrade
-- git clone https://github.com/raaihan/wanset
+- git clone https://github.com/riyora/wanset
 - cd wanset
 - php oneaset.php
 
